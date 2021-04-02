@@ -1,4 +1,4 @@
-### Hiya👋🏻, I'm Spud!
+### Hiya, I'm Spud! 👋🏻
 
 - 🔭 I’m currently working on random python and web projets
 - 🌱 I’m currently learning HTML, CSS, JS
