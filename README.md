@@ -1,10 +1,10 @@
 ### Hiya, I'm Spud! 👋🏻
 
-- 🎓 I'm a student from the UK
-- 📚 I’m currently working on random python and web projets
-- 🖥️ I’m currently learning Laravel
+- 🎓 I'm a college student from the <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">UK</a>
+- 📚 I’m currently working on random <a href="https://www.python.org/">Python</a> and <a href="https://spudyt.xyz">web projets</a>
+- 🖥️ I’m currently learning <a href="https://laravel.com/">Laravel</a>
 - 💬 Contact me <a href="https://spudyt.xyz">here</a>
-- 👦🏻 Pronouns: he/him
+- 👦🏻 Pronouns: <a href="/">he/him</a>
 
 The majority of projects I work on are private.
 <br>*Have a nice day!*
